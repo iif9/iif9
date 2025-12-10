@@ -10,8 +10,12 @@
 ---
 
 ### Connect with me:
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/xf9iix){:width="24" height="24"}
----
+<a href="https://www.linkedin.com/in/xf9iix" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?color=ffffff"
+       width="20" height="20"
+       alt="LinkedIn"
+       style="vertical-align: middle;">
+</a>
 
 ### Languages and Tools:
 
