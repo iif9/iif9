@@ -1,6 +1,6 @@
 ### Hi there, I'm Faisal AL-Khaibari 👋
 
-## I'm a Developer
+## I'm a IT Security & Technical Support Specialist
 
 - 🔭 I am currently working as a freelance developer.
 - 🌱 I am learning everything right now.
